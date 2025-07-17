@@ -7,7 +7,6 @@
 ## 👩‍💻 About Me:
 - 🎓 Aspiring Software Developer | B.Tech IT Undergrad passionate about building & learning
 - 🌐 Learning Web Development, DSA & Git
-- 🚀 Goal: Crack **GSoC** & reach **40 LPA+** Software Engineer Role
 - 🧠 Interested in **Java**, **Open Source**, and **Tech for Impact**
 
 ---
